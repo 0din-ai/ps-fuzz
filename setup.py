@@ -34,7 +34,7 @@ setup(
         "httpx>=0.24.0,<0.25.0",
         "openai==1.6.1",
         "langchain==0.0.353",
-        "langchain-community==0.0.7",
+        "langchain-community==0.3.27",
         "langchain-core==0.1.4",
         "argparse==1.4.0",
         "python-dotenv==1.0.0",
