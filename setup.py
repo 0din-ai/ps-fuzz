@@ -33,7 +33,7 @@ setup(
     install_requires=[
         "httpx>=0.24.0,<0.25.0",
         "openai==1.6.1",
-        "langchain==0.0.353",
+        "langchain==0.3.30",
         "langchain-community==0.0.7",
         "langchain-core==0.1.4",
         "argparse==1.4.0",
